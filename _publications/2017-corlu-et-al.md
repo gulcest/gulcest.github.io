@@ -1,11 +1,11 @@
 ---
-title: "Test Accounts: An Introduction"
+title: "Involving Autistics in User Experience Studies: A Critical Review"
 collection: publications
-permalink: /publications/2009-10-01-test-accts-intro
-venue: "Testing Studies"
-excerpt: 'This paper is about testing.'
-date: 2009-10-01
-paperurl: http://academicpages.github.io/files/paper1.pdf
+permalink: /publications/2017-corlu-et-al
+venue: "In Proceedings of the 2017 Conference on Designing Interactive Systems (DIS '17). Association for Computing Machinery, New York, NY, USA, 43–55."
+excerpt: 'This paper is a critical review of state-of-the-art research that conducts user studies with individuals on the Autism spectrum.'
+date: 2017-06-10
+paperurl: https://drive.google.com/file/d/1s4muro4YgJj6S-bQbmSdeUV8X4SIOJj4/view?usp=sharing
 citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
 ---
 
