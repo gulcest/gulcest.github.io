@@ -6,7 +6,7 @@ venue: "In Proceedings of the 2017 Conference on Designing Interactive Systems (
 excerpt: 'This paper is a critical review of state-of-the-art research that conducts user studies with individuals on the Autism spectrum.'
 date: 2017-06-10
 paperurl: https://drive.google.com/file/d/1s4muro4YgJj6S-bQbmSdeUV8X4SIOJj4/view?usp=sharing
-citation: 'Doga Çorlu, Şeyma Taşel, Semra Gülce Turan, Athanasios Gatos, and Asim Evren Yantaç (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
+citation: 'Doga Çorlu, Şeyma Taşel, Semra Gülce Turan, Athanasios Gatos, and Asim Evren Yantaç (2017). "Involving Autistics in User Experience Studies: A Critical Review." <i>In Proceedings of the 2017 Conference on Designing Interactive Systems (DIS '17). Association for Computing Machinery, New York, NY, USA, 43–55.</i>. 1(1).'
 
 ---
 
