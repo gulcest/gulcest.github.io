@@ -13,4 +13,5 @@ While working, we are not always in line with our ability to focus. Being more m
 
 [Download paper here](http://gulcest.github.io/files/turan-2019.pdf)
 
-Semra Gulce Turan, Silas Ramsoe Ozaltin, and Asim Evren Yantac. 2019. Designing calmworklight: Signaling Focus with a Desk Light. In Companion Publication of the 2019 on Designing Interactive Systems Conference 2019 Companion (DIS '19 Companion). Association for Computing Machinery, New York, NY, USA, 301–305. DOI:https://doi.org/10.1145/3301019.3323907
+ACM Ref:
+<i>Semra Gulce Turan, Silas Ramsoe Ozaltin, and Asim Evren Yantac. 2019. Designing calmworklight: Signaling Focus with a Desk Light. In Companion Publication of the 2019 on Designing Interactive Systems Conference 2019 Companion (DIS '19 Companion). Association for Computing Machinery, New York, NY, USA, 301–305.</i> DOI:https://doi.org/10.1145/3301019.3323907
