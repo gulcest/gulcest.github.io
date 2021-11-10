@@ -47,11 +47,8 @@ You may find a more detailed view on [my LinkedIn profile](https://www.linkedin.
 ## Language Proficiency
  
 * Turkish (native)
-* English (proficient) 
-* German (proficient)
-* Portuguese (elementary)
-* Italian (elementary)
-* Spanish (elementary)
+* English, German (proficient) 
+* Portuguese, Italian, Spanish (elementary)
 
 ## Publications
  
