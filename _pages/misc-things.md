@@ -21,3 +21,11 @@ I document most of my readings on [Goodreads](https://www.goodreads.com/user/sho
 "Perhaps we become aware of our age only at exceptional moments and most of the time we are ageless." ---<cite>Milan Kundera, Immortality</cite>
 
 "It may be normal, darling; but I'd rather be natural." ---<cite>Truman Capote, Breakfast at Tiffany's and Three Stories</cite>
+
+## Cinema 
+
+I document most of the films I watch on [Mubi](https://mubi.com/users/1337322) and am always sketching ideas for my next short movie. You view my short film-ography on my [Vimeo profile](https://vimeo.com/user4025971).
+
+## Photography 
+
+<img src='/images/500x300.png'>
