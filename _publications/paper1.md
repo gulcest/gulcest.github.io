@@ -6,7 +6,7 @@ excerpt: 'This paper is about an attention awareness and communication regulatio
 date: 2019-06-18
 venue: 'ACM SIGCHI Designing Interactive Systems Conference'
 paperurl: 'http://gulcest.github.io/files/turan-2019.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Semra Gulce Turan, Silas Ramsoe Ozaltin, and Asim Evren Yantac. (2019). &quot;Designing calmworklight: Signaling Focus with a Desk Light.&quot; <i>In Companion Publication of the 2019 on Designing Interactive Systems Conference 2019 Companion (DIS '19 Companion). Association for Computing Machinery, New York, NY, USA, 301–305</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
