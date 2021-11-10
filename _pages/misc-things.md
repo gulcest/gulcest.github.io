@@ -19,4 +19,5 @@ I document most of my readings on [Goodreads](https://www.goodreads.com/user/sho
 
 “Tiger got to hunt, bird got to fly; Man got to sit and wonder <q>why, why, why?'</q>; Tiger got to sleep, bird got to land; Man got to tell himself he understand.” --- <cite>Kurt Vonnegut, Cat's Cradle</cite>
 
+"Code is poetry." ---<cite>Automattic</cite>
 
