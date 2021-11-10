@@ -28,4 +28,6 @@ I document most of the films I watch on [Mubi](https://mubi.com/users/1337322) a
 
 ## Photography 
 
-<img src='/images/500x300.png'>
+Below is a selection of the photos I took. I mainly use Canon AE-1, Nikon D-90 and Diana F+. [My Flickr profile](https://www.flickr.com/photos/gulcest/) is unfortunately not complete. 
+
+<img src='/images/galata.jpg'>
