@@ -8,11 +8,11 @@ redirect_from:
   - /misc-things.html
 ---
 
-### Reads
+## Literature
 
 I document most of my readings on [Goodreads](https://www.goodreads.com/user/show/5847620-semra-g-lce-turan).
 
-### Some of my favourite quotes and writers
+#### Some of my favourite quotes and writers
 
 “Life can't be all that bad,' I'd think from time to time. <q>Whatever happens, I can always take a long walk along the Bosphorus</q>.” ― Orhan Pamuk, Istanbul: Memories and the City
 {: .notice}
