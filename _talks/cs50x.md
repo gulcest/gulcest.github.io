@@ -7,6 +7,7 @@ venue: "kodluyoruz.org"
 date: 2020-08-11
 location: "online"
 ---
+EN, TR
 
 -<i>EN</i>- In an attempt to support Turkish people who are not fluent in English get a start in Computer Science education with some of the best resources available, Kodluyoruz team organized a team of volunteers (including myself!) to translate the CS50x class by Hardvard Professor David J. Malan. The video-based classes are available at [Kodluyoruz' website](https://courses.kodluyoruz.org/). Happy learning!
 
