@@ -2,7 +2,7 @@
 title: "CS50x Introduction to Computer Science in Turkish! / CS50x Bilgisayar Bilimlerine Giriş dersi artık Türkçe!"
 collection: talks
 type: "Volunteering"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/cs50x
 venue: "kodluyoruz.org"
 date: 2020-08-11
 location: "online"
