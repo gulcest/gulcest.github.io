@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/paper1
 excerpt: 'This paper is about an attention awareness and communication regulation system for physical communities and organizations.'
 date: 2019-06-18
-venue: 'Journal 1'
+venue: 'ACM SIGCHI Designing Interactive Systems Conference 2019'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
