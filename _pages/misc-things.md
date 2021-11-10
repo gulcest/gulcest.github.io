@@ -44,3 +44,6 @@ In my high school in Istanbul, Turkey. 2011 <br>
 
 Ayvalık, Turkey. 2018 <br>
 <img src='/images/ayvalik.jpg'>
+
+Ayvalık, Turkey. 2018 <br>
+<img src='/images/cagla.jpg'>
