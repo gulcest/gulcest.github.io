@@ -6,7 +6,7 @@ excerpt: 'This paper is about an attention awareness and communication regulatio
 date: 2019-06-18
 venue: 'ACM SIGCHI Designing Interactive Systems Conference'
 paperurl: 'http://gulcest.github.io/files/turan-2019.pdf'
-+citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
+citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
