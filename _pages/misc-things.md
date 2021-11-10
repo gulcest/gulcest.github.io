@@ -41,3 +41,6 @@ Adana, Turkey. 2012 <br>
 
 In my high school in Istanbul, Turkey. 2011 <br>
 <img src='/images/paydos.jpg'>
+
+Ayvalık, Turkey. 2018 <br>
+<img src='/images/ayvalik.jpg'>
