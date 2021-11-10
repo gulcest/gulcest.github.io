@@ -17,3 +17,7 @@ I document most of my readings on [Goodreads](https://www.goodreads.com/user/sho
 "Life can't be all that bad,' I'd think from time to time. <q>Whatever happens, I can always take a long walk along the Bosphorus</q>." ---<cite>Orhan Pamuk, Istanbul: Memories and the City</cite>
 
 "Tiger got to hunt, bird got to fly; Man got to sit and wonder <q>why, why, why?'</q>; Tiger got to sleep, bird got to land; Man got to tell himself he understand." ---<cite>Kurt Vonnegut, Cat's Cradle</cite>
+
+"Perhaps we become aware of our age only at exceptional moments and most of the time we are ageless." ---<cite>Milan Kundera, Immortality</cite>
+
+"It may be normal, darling; but I'd rather be natural." ---<cite>Truman Capote, Breakfast at Tiffany's and Three Stories</cite>
