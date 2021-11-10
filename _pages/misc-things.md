@@ -1,6 +1,6 @@
 ---
 permalink: /misc-things/
-title: "Markdown"
+title: "Miscellaneous"
 author_profile: true
 redirect_from: 
   - /md/
