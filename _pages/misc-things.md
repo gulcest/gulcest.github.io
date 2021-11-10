@@ -45,3 +45,9 @@ In my high school in Istanbul, Turkey. 2011 <br>
 ## Music
 
 I'm currently working on a piece re-enacting [Muzeyyen Senar's Feraye](https://www.youtube.com/watch?v=bStHxtHSPJ4) and practicing with [Julie Lyonn Lieberman's resources](https://julielyonn.com/books-dvds/books/) on getting create with violin improvisations, or, fiddling. I use the Yamaha SV-150 electric violin and Maschine MK-3.
+
+<pre>
+{\__/}
+(●_●)
+( > 🍪 Want a cookie?   
+</pre>
