@@ -1,18 +1,18 @@
 # main links links
 main:
 
-  - title: "News"
+  - title: "[news]"
     url: /talks/    
 
-  - title: "CV"
+  - title: "[cv]"
     url: /cv/
 
-  - title: "Publications"
+  - title: "[publications]"
     url: /publications/  
     
-  - title: "Blog Posts"
+  - title: "[blog posts]"
     url: /year-archive/
     
-  - title: "Miscellaneous"
+  - title: "[miscellaneous]"
     url: /misc/
         
