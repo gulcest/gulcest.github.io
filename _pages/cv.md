@@ -49,6 +49,9 @@ You may find a more detailed view on [my LinkedIn profile](https://www.linkedin.
 * Turkish (native)
 * English (proficient) 
 * German (proficient)
+* Portuguese (elementary)
+* Italian (elementary)
+* Spanish (elementary)
 
 ## Publications
  
