@@ -1,5 +1,5 @@
 ---
-title: "Soon: Unity lessons in Turkish!"
+title: "Soon: Unity lessons in Turkish! / Yakında: Unity dersleri Türkçede!"
 collection: talks
 type: "Volunteering"
 permalink: /talks/unity
