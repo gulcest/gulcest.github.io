@@ -15,9 +15,3 @@ I enjoy designing organizations, researching communities and am currently in the
 You can find traces of my worldly presence put together on this website, including my CV, publications and blog posts. 
 
 Miscellaneously, I also post things that move and inspire me. I love to make music (play the violin, the ukulele, sing and produce electronic music), read and watch cinematic treasures.
-
-<pre>
-{\__/}
-(●_●)
-( > 🍪 Want a cookie?   
-</pre>
