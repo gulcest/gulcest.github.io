@@ -2,7 +2,7 @@
 title: "Designing calmworklight: Signaling Focus with a Desk Light"
 collection: publications
 permalink: /publications/paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about an attention awareness and communication regulation system for physical communities and organizations.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
