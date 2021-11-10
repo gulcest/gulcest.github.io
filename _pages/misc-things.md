@@ -28,6 +28,16 @@ I document most of the films I watch on [Mubi](https://mubi.com/users/1337322) a
 
 ## Photography 
 
-Below is a selection of the photos I took. I mainly use Canon AE-1, Nikon D-90 and Diana F+. [My Flickr profile](https://www.flickr.com/photos/gulcest/) is unfortunately not complete. 
+Below is a selection of the photos I took. I mainly use Canon AE-1, Nikon D-90, Fisheye No. 2 and Diana F+. [My Flickr profile](https://www.flickr.com/photos/gulcest/) is unfortunately not complete. 
 
 <img src='/images/galata.jpg'>
+^Galata, Istanbul, Turkey. 2011
+
+<img src='/images/isik-oyunu.jpg'>
+^Datca, Mugla, Turkey. 2012
+
+<img src='/images/yuruyus.jpg'>
+^Adana, Turkey. 2012
+
+<img src='/images/paydos.jpg'>
+^In my high school in Istanbul, Turkey. 2011
