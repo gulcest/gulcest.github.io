@@ -14,9 +14,9 @@ You may find a more detailed view on [my LinkedIn profile](https://www.linkedin.
 ## Education
 
 * MITx MicroMasters in Statistics and Data Science, 2021 - ongoing
-* M.S. in Information Systems, Technical University of Munich, 2018
+* M.S. in Information Systems, Technical University of Munich, 2018 (3.82/4.00 GPA)
   * Coursework includes <i>Discrete Structures, Fundamentals of Algorithms and Data Structures, Distributed Systems, Social Computing</i>
-* B.S. in Management & Technology (Focus on Computer Science), Technical University of Munich, 2015
+* B.S. in Management & Technology (Focus on Computer Science), Technical University of Munich, 2015 (3.46/4.00 GPA)
   * Coursework includes <i>Introduction to Software Engineering, Introduction to Software Engineering, Advanced Seminar in Course Energy Informatics, Information Systems I & II</i>
 
 ## Work experience
