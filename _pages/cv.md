@@ -58,6 +58,6 @@ You may find a more detailed view on [my LinkedIn profile](https://www.linkedin.
   
 ## Service and leadership
  
-* Part of various Etherium-based Decentralized Autonomous Organizations with responsibilities in content production, investment due diligence support and organizational design
+* Part of various Ethereum-based Decentralized Autonomous Organizations with responsibilities in content production, investment due diligence support and organizational design
 * Volunteer Translator for CS classes at [Kodluyoruz](https://www.kodluyoruz.org/)
 * Volunteer Mentor for high-school and university students at [Association for Supporting Contemporary Life](https://www.cydd.org.tr/pages/about-us-2/)
