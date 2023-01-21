@@ -10,9 +10,6 @@ main:
   - title: "[publications]"
     url: /publications/  
     
-  - title: "[portfolio]"
-    url: /portfolio/  
-    
   - title: "[blog posts]"
     url: /year-archive/
     
