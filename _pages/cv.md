@@ -31,7 +31,6 @@ You may find a more detailed view on [my LinkedIn profile](https://www.linkedin.
 
 * 2019 - 2020: Product Manager at [iyzico](https://www.iyzico.com/)
   * iyzico is a B2B point-of-sale solutions provider active in Turkey
-  * My main responsibilities included coordinating the prototype development of new financial products (e.g. [Protected Bank Transfer](https://dev.iyzipay.com/en/havale-eft), [Pay with iyzico](https://dev.iyzipay.com/en/iyzico-ile-ode), [Settlement to Balance](https://dev.iyzipay.com/en/iyzico-hesabina-para-transferi), [Refund with Balance](https://dev.iyzipay.com/en/iyzico-hesabina-iade), [Mass Payouts](https://dev.iyzipay.com/en/mass-payouts)), reporting on the tests and driving continuous improvement
 
 * 2018 - 2019: Associate Consultant at [Korn Ferry](https://www.kornferry.com/)
   * Korn Ferry is a globally active consulting firm focusing on client's organizational challenges
