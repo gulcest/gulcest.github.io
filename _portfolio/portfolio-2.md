@@ -1,5 +1,5 @@
 ---
-title: "wecook: In search of modalities for connection 💑 "
+title: "wecook: In search of modalities for organic & joyful connections 💑 "
 excerpt: "<i>Kitchen add-on hardware and software to cook with internet friends</i><br/><img src='/images/wecook-1.png'>"
 collection: portfolio
 ---
