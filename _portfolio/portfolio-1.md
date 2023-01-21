@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "wecook: Kitchen add-on hardware and software to cook with internet friends"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
