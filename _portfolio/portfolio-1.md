@@ -1,6 +1,6 @@
 ---
 title: "calmworklight: Mediating needs in shared workspaces 💡"
-excerpt: "<i>Community-driven design for a desk lamp signaling attention</i><br/><img src='/images/calmworklight-user-2.png'>"
+excerpt: "<i>Community-driven design for a desk lamp signaling attention</i><br/><img src='/images/calmworklight-user.png'>"
 collection: portfolio
 ---
 
