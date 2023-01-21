@@ -1,6 +1,6 @@
 ---
 title: "wecook: In search of modalities for organic & joyful connections 💑 "
-excerpt: "<i>Kitchen add-on hardware and software to cook with internet friends</i><br/><img src='/images/wecook-1.png'>"
+excerpt: "<i>Kitchen add-on hardware and software to cook with internet friends</i><br/><img src='/images/wecook-5.png'>"
 collection: portfolio
 ---
 👩‍🍳 What if there was a more <b>natural way</b> to cook with internet friends from your own kitchen? 
