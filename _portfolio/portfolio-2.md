@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "wecook: Kitchen add-on hardware and software to cook with internet friends<br/><img src='/images/wecook-1.png'>"
+title: "wecook: In search of modalities for connection 💑 "
+excerpt: "<i>Kitchen add-on hardware and software to cook with internet friends</i><br/><img src='/images/wecook-1.png'>"
 collection: portfolio
 ---
 👩‍🍳 What if there was a more <b>natural way</b> to cook with internet friends from your own kitchen? 
