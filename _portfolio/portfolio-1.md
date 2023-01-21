@@ -18,7 +18,7 @@ collection: portfolio
 
 <br/>🧠 Starting off with this idea, we built <b><i>calmworklight</i></b>, a desktop lamp that responds to changes in peoples’ focus strength, using the commercially available [NeuroSky MindWave](https://store.neurosky.com/pages/mindwave). 
 
-<br/><img src='/images/calmworklight-1.png'><img src='/images/calmworklight-2.png'>
+<br/><img src='/images/calmworklight-1.png'><img src='/images/calmworklight-2.png'><img src='/images/calmworklight-4.png'>
 
 <br/>ℹ️ The lamp’s expression depends solely on the <b>user’s level of focus</b>. If it is strong, the lamp returns a steady, calming warm light. If not, the light emission follows a breathing pattern, aiming to encourage the user to be more mindful of their breath. 
 
