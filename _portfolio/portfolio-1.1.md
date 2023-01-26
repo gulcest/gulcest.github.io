@@ -4,7 +4,7 @@ excerpt: "<i>Co-building a taxonomy and structure for the database</i><br/><img 
 collection: portfolio
 ---
 
-🧑🏻‍🤝‍🧑🏿 I'm part of the Research Team at reState, where we're building the taxonomy and structure for the <b>Future of Governance Toolkit</b>. This toolkit is intended for governance practicioners and researchers both from the online and offline world looking into examples of participatory decision-making they can easily implement within their communities.
+🧑🏻‍🤝‍🧑🏿 I'm part of the Research Team at [reState](https://restate.global/manifesto/), where we're building the taxonomy and structure for the <b>Future of Governance Toolkit</b>. This toolkit is intended for governance practicioners and researchers both from the online and offline world looking into examples of participatory decision-making they can easily implement within their communities.
 
 <br/>🎤 As of January 2023, we have started to conduct our first interviews with stakeholders in governance. Soon, we'll launch our platform to the public and start to onboard volunteers to let the library evolve towards mutual needs.
 
