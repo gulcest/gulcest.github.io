@@ -2,20 +2,20 @@
 main:
 
   - title: "[news]"
-    url: /talks/    
+    url: talks/    
 
   - title: "[cv]"
-    url: /cv/
+    url: cv/
     
   - title: "[portfolio]"
-    url: /portfolio/
+    url: portfolio/
 
   - title: "[publications]"
-    url: /publications/  
+    url: publications/  
     
   - title: "[blog posts]"
-    url: /year-archive/
+    url: year-archive/
     
   - title: "[miscellaneous]"
-    url: /misc-things/
+    url: misc-things/
         
