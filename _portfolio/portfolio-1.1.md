@@ -10,4 +10,4 @@ collection: portfolio
 
 <br/> ➡️ I'll share more soon. Stay tuned!
 
-<br/><img src='restate-2.png'>
+<br/><img src='/images/restate-2.png'>
