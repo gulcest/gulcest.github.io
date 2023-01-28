@@ -1,6 +1,6 @@
 ---
 title: "A directory for students to browse university clubs' projects with social mission 🌍"
-excerpt: "<i>Social Explorer</i><br/><img src='/images/socialexplorer-4.png'>"
+excerpt: "<i>Social Explorer</i><br/><img src='/images/socialexplorer-5.png'>"
 collection: portfolio
 ---
 
