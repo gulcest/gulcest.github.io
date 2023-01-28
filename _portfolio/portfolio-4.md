@@ -1,5 +1,5 @@
 ---
-title: "Working with online SMB businesses to design more intuitive online payment mechnanisms 💳"
+title: "Working with online SMBs to design more intuitive online payment mechnanisms 💳"
 excerpt: "<i>Mass Payouts, Settlement to Balance & Refund to Balance</i><br/><img src='/images/financialservices-1.png'>"
 collection: portfolio
 ---
