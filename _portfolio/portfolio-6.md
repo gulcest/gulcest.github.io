@@ -8,4 +8,4 @@ collection: portfolio
 
 <br/> 👥 I utilized open source projects and platforms (including OpenStreetMap, Snazzy Info Windows) to visualize the multiple data layers on the web-based map (including weather, crowdedness, traffic and events happening in the neighborhood). You may browse the usage flow with the various data layers [here](https://drive.google.com/drive/folders/1stkAogTNAbCWM0rd0XgLEmE_a5898Vaq).
 
-<br/> 🎗 The project continued with further iterations, user interviews and [research papers](https://link.springer.com/chapter/10.1007/978-3-319-40406-6_12).
+<br/> ➡️ The project continued with further iterations, user interviews and [research papers](https://link.springer.com/chapter/10.1007/978-3-319-40406-6_12).
