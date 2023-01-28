@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 5"
-excerpt: "Short description of portfolio item number 5 <br/><img src='/images/500x300.png'>"
+title: "A directory for students to browse university clubs' projects with social mission 🌍"
+excerpt: "<i>Social Explorer</i><br/><img src='/images/social explorer-1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+👩‍💻 Using MEAN stack (MongoDB, Express.js, Angular.js and Node.js), we built a website on which users can both create and take part in projects with a <b>social mission</b>, such as building schools in unpriviledged areas of the world. 
+
+<br/> 🎗 Our idea got offered financial and networking support from the Chair Software Engineering for Business Information Systems (sebis) at TUM and was developed further to be placed within the student web infranet.
+
+<img src='/images/social explorer-2.png'>
