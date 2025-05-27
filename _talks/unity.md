@@ -2,7 +2,7 @@
 title: "Soon: Unity lessons in Turkish! / Yakında: Unity dersleri Türkçede!"
 collection: talks
 type: "Volunteering"
-permalink: /talks/unity
+permalink: /talks/unity/
 venue: "kodluyoruz.org"
 date: 2021-11-10
 location: "online"
