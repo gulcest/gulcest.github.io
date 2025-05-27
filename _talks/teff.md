@@ -2,7 +2,7 @@
 title: "Invited to Turkey Europe Future Forum on <q>Reinvigorating multilateralism in a post-pandemic world – What is ahead for Turkey-European relations?</q>"
 collection: talks
 type: "Grant"
-permalink: /talks/teff
+permalink: /talks/teff/
 venue: "Stiftung Mercator & TUSIAD"
 date: 2021-06-01
 location: "Istanbul, Turkey"
