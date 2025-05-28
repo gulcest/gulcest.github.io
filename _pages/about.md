@@ -13,6 +13,6 @@ I’m Sem, a researcher and community organizer, mostly based somewhere near the
 
 I’m currently active at Nexus Mutual 🐢 and the DeCoCo 🥥, and also work as a freelance consultant supporting projects in governance, UX, and Web3.
 
-This site gathers traces of my worldly presence—CV, publications, blog posts, and the occasional musing. You’ll also find things that move me: music (I play the violin, ukulele, sing, and produce electronic sounds), cinematic gems, and scattered inspirations.
+This site gathers traces of my worldly presence—CV, publications, blog posts, and the occasional musing. You’ll also find things that move me: music (I play the violin, ukulele, sing, and produce electroacoustic sounds), contemporary dance, cinematic gems, and scattered inspirations.
 
 If you're interested in collaborating or just want to say hi, you can reach me at s3mtur4n [at] gmail [dot] com, or [book some time directly](https://calendly.com/sem-nxmcommunity/30min). I’m always up for connecting with people working toward a fairer, more inclusive world.
