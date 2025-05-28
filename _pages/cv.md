@@ -14,16 +14,17 @@ You may find a more detailed view on [my LinkedIn profile](https://www.linkedin.
 ## Education
 
 * M.S. in Information Systems, Technical University of Munich, 2018 (3.82/4.00 GPA)
-  * Coursework includes <i>Discrete Structures, Fundamentals of Algorithms and Data Structures, Distributed Systems, Social Computing</i>
+  * Coursework includes <i>Discrete Structures, Fundamentals of Algorithms and Data Structures, Distributed Systems, Social Computing, Mobile iOS team projects</i>
 * B.S. in Management & Technology (Focus on Computer Science), Technical University of Munich, 2015 (3.46/4.00 GPA)
-  * Coursework includes <i>Introduction to Software Engineering, Introduction to Software Engineering, Advanced Seminar in Course Energy Informatics, Information Systems I & II</i>
+  * Coursework includes <i>Introduction to Software Engineering I, Introduction to Software Engineering II, Advanced Seminar in Course Energy Informatics, Information Systems I & II, MEAN-stack team projects</i>
 
 ## Work experience
 
-* Since 2022: Researcher at [reState Foundation](https://restate.global/)
-  * I'm working on the Future of Governance Toolkit, an open-source living library for emerging governance practices.
 
-* Since 2022: Community & Communications at [Nexus Mutual](https://nexusmutual.io/)
+* Since 2022: Head of Community at [Nexus Mutual](https://nexusmutual.io/)
+
+* 2022: Researcher at [reState Foundation](https://restate.global/)
+  * I worked on the [Future of Governance Toolkit](https://toolkit.restate.global/filter/), an open-source living library for emerging governance practices.
 
 * 2020 - 2022: Investment Associate at [212.vc](https://212.vc/)
   * 212.vc is a USD 50m Venture Capital fund investing in B2B business across the globe
@@ -45,7 +46,7 @@ You may find a more detailed view on [my LinkedIn profile](https://www.linkedin.
  
 * Turkish (native)
 * English, German (proficient) 
-* Portuguese, Italian, Spanish (elementary)
+* Portuguese, Italian, Spanish, Swedish (elementary)
 
 ## Publications
  
