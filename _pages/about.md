@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my corner of the internet! (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
 
-Hi! (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧ 
+I’m Sem, a researcher and community organizer, mostly based somewhere near the UTC timezone. My work explores how we can use our collective powers to build online communities grounded in cooperation and fair value distribution.
 
-I'm Sem. I'm curious about finding new ways to utilize our collective powers. 
+I’m currently active at Nexus Mutual 🐢 and the DeCoCo 🥥, and also work as a freelance consultant supporting projects in governance, UX, and Web3.
 
-You can find traces of my worldly presence put together on this website, including my CV, publications and blog posts. 
+This site gathers traces of my worldly presence—CV, publications, blog posts, and the occasional musing. You’ll also find things that move me: music (I play the violin, ukulele, sing, and produce electronic sounds), cinematic gems, and scattered inspirations.
 
-Miscellaneously, I also post things that move and inspire me. I love to make music (play the violin, the ukulele, sing and produce electronic music), read and watch cinematic treasures. 
-
-I am always looking forward to meeting people that want to make the world a fairer and more inclusive place! If you think we'd collaborate well together, reach out to me at: turansemragulce [at] gmail [dot] com.
+If you're interested in collaborating or just want to say hi, you can reach me at s3mtur4n [at] gmail [dot] com, or [book some time directly](https://calendly.com/sem-nxmcommunity/30min). I’m always up for connecting with people working toward a fairer, more inclusive world.
