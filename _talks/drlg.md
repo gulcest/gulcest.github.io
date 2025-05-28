@@ -1,5 +1,5 @@
 ---
-title: "DeFi & Risk Learning Group's first cohort has kicked off"
+title: "DeFi & Risk Learning Group's first cohort has kicked off 👩‍💻"
 collection: talks
 type: "Organizing"
 permalink: /talks/drlg/
@@ -8,7 +8,7 @@ date: 2025-04-01
 location: "online"
 ---
 
-The first cohort of the DeFi & Risk Learning Group is live!
+*The first cohort of the DeFi & Risk Learning Group is live!*
 <br>
 <br>
 This online group brings together DeFi enthusiasts to explore core concepts in DeFi and risk management. We meet bi-weekly, tackle monthly challenges, and experiment hands-on with DeFi tools.
