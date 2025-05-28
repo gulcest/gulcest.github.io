@@ -8,6 +8,6 @@ collection: portfolio
 
 <br/>🎤 As of January 2023, we have started to conduct our first interviews with stakeholders in governance. Soon, we'll launch our platform to the public and start to onboard volunteers to let the library evolve towards mutual needs.
 
-<br/> ➡️ I'll share more soon. Stay tuned!
+<br/> <s>➡️ I'll share more soon. Stay tuned!</s> [The database is now live!](https://toolkit.restate.global/filter/) ✨✨✨ Let me know how you like it!
 
 <br/><img src='/images/restate-2.png'>
