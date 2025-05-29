@@ -18,10 +18,10 @@ You may find a more detailed view on [my LinkedIn profile](https://www.linkedin.
 * B.S. in Management & Technology (Focus on Computer Science), Technical University of Munich, 2015 (3.46/4.00 GPA)
   * Coursework includes <i>Introduction to Software Engineering I, Introduction to Software Engineering II, Advanced Seminar in Course Energy Informatics, Information Systems I & II, MEAN-stack team projects</i>
 
-## Work experience
+## Experience
 
 
-* Since 2022: Head of Community at [Nexus Mutual](https://nexusmutual.io/)
+* 2022: Head of Community at [Nexus Mutual](https://nexusmutual.io/)
 
 * 2022: Researcher at [reState Foundation](https://restate.global/)
   * I worked on the [Future of Governance Toolkit](https://toolkit.restate.global/filter/), an open-source living library for emerging governance practices.
