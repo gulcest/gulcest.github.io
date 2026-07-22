@@ -1,0 +1,22 @@
+/* ==========================================================================
+   Dark skin — footer override
+   loaded after _footer.scss so it wins the cascade (same selector
+   specificity as .page__footer in _footer.scss, later rule wins)
+   ========================================================================== */
+
+.page__footer {
+  background-color: mix(#000, $background-color, 30%);
+  border-top-color: mix(#fff, $background-color, 10%);
+  color: $text-color;
+
+  a {
+    color: inherit;
+  }
+
+  .fas,
+  .fab,
+  .far,
+  .fal {
+    color: inherit;
+  }
+}

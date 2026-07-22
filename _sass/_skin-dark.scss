@@ -1,0 +1,20 @@
+/* ==========================================================================
+   Dark skin — color variable overrides
+   adapted from mmistakes/minimal-mistakes for this older/customized fork,
+   which doesn't carry the form-background/footer-background/
+   navicon-link-color-hover variables the upstream skin overrides — footer
+   is handled separately in _skin-dark-footer.scss since it has to load
+   after _footer.scss.
+   ========================================================================== */
+
+$background-color           : #252a34;
+$text-color                 : #eaeaea;
+$primary-color              : #00adb5;
+$border-color               : mix(#fff, $background-color, 20%);
+$code-background-color      : mix(#000, $background-color, 15%);
+$code-background-color-dark : mix(#000, $background-color, 20%);
+$link-color                 : mix($primary-color, $text-color, 40%);
+$link-color-hover            : mix(#fff, $link-color, 25%);
+$link-color-visited          : mix(#000, $link-color, 25%);
+$masthead-link-color        : $text-color;
+$masthead-link-color-hover  : mix(#000, $text-color, 20%);

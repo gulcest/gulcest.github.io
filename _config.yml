@@ -14,7 +14,7 @@ description              : &description "Ops, research, and building things, usu
 url                      : "https://www.semturan.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gulcest.github.io"
-minimal_mistakes_skin    : "sunrise" # blank/default, "contrast", or "sunrise" (only these are wired up in _sass/_skin-*.scss)
+minimal_mistakes_skin    : "dark" # blank/default, "contrast", "sunrise", or "dark" (only these are wired up in _sass/_skin-*.scss)
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

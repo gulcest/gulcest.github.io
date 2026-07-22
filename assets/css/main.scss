@@ -14,6 +14,7 @@
 @import "variables";
 {% if site.minimal_mistakes_skin == "contrast" %}@import "skin-contrast";{% endif %}
 {% if site.minimal_mistakes_skin == "sunrise" %}@import "skin-sunrise";{% endif %}
+{% if site.minimal_mistakes_skin == "dark" %}@import "skin-dark";{% endif %}
 @import "mixins";
 @import "vendor/susy/susy";
 
@@ -30,6 +31,7 @@
 @import "footer";
 {% if site.minimal_mistakes_skin == "contrast" %}@import "skin-contrast-footer";{% endif %}
 {% if site.minimal_mistakes_skin == "sunrise" %}@import "skin-sunrise-footer";{% endif %}
+{% if site.minimal_mistakes_skin == "dark" %}@import "skin-dark-footer";{% endif %}
 @import "syntax";
 
 @import "forms";
