@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Semra Gulce Turan"
 title_separator          : "-"
 name                     : &name "Semra Gulce Turan"
-description              : &description "Creative & researcher for communities, governance + collective powers"
+description              : &description "Ops, research, and building things, usually with other people."
 url                      : "https://www.semturan.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gulcest.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sem Turan"
   avatar           : "profile-gg.jpg"
-  bio              : "Creative & researcher for communities, governance & collective powers"
+  bio              : "Ops, research, and building things, usually with other people."
   location         : "Stockholm / Istanbul"
   employer         :
   pubmed           : 
