@@ -1,6 +1,6 @@
 ---
 title: "Experimenting with geovisualization layers to ease casual exploration 🗺"
-excerpt: "<i>Website development to test for better ways of interacting with complex information</i><br/><img src='/images/civarco-2.png'>"
+excerpt: "<i>Website development to test for better ways of interacting with complex information</i><br/><img src='/images/civarco-2.png' alt='Web-based map prototype showing weather, crowdedness, and event data layers'>"
 collection: portfolio
 ---
 

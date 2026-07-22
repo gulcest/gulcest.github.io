@@ -6,6 +6,7 @@ permalink: /talks/grg/
 venue: "Nexus Mutual"
 date: 2024-03-01
 location: "online"
+excerpt: "Organizing the Governance Reading Group, a biweekly online group studying cooperatives, commons management, and decentralized governance."
 ---
 *Progressive decentralization is a core objective of the Nexus Mutual team. But what does it mean to progressively decentralize?*
 <br>

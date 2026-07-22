@@ -5,7 +5,8 @@ type: "Grant"
 permalink: /talks/ghc/
 venue: "GHC 2016"
 date: 2017-03-19
-location: "online"
+location: "Houston, TX"
+excerpt: "Received a travel grant from TU Munich's Forum of Women to attend the Grace Hopper Celebration of Women in Computing."
 ---
 
 I'm grateful that the Forum of Women at the CS Faculty at Technical University of Munich has included me in this year's travel grant receivers for the Grace Hopper Celebration of Women in Computing conference, held in Houston, TX. 

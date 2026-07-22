@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Researcher & Community Organizer"
+excerpt: "Personal site of Semra Gulce Turan, a researcher and community organizer working on governance, UX, and Web3 at Nexus Mutual and DeCoCo."
 author_profile: true
 redirect_from: 
   - /about/

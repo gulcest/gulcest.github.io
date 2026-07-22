@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+excerpt: "CV of Semra Gulce Turan: community and research roles at Nexus Mutual, reState Foundation, and 212.vc, plus publications and education."
 redirect_from:
   - /resume
 ---
@@ -27,14 +28,14 @@ You may find a more detailed view on [my LinkedIn profile](https://www.linkedin.
   * I worked on the [Future of Governance Toolkit](https://toolkit.restate.global/filter/), an open-source living library for emerging governance practices.
 
 * 2020 - 2022: Investment Associate at [212.vc](https://212.vc/)
-  * 212.vc is a USD 50m Venture Capital fund investing in B2B business across the globe
+  * 212.vc is a USD 50m Venture Capital fund investing in B2B businesses across the globe
   * My main responsibilities included market & technology research, deal sourcing & support in execution
 
 * 2019 - 2020: Product Manager at [iyzico](https://www.iyzico.com/)
   * iyzico is a B2B point-of-sale solutions provider active in Turkey
 
 * 2018 - 2019: Associate Consultant at [Korn Ferry](https://www.kornferry.com/)
-  * Korn Ferry is a globally active consulting firm focusing on client's organizational challenges
+  * Korn Ferry is a globally active consulting firm focusing on clients' organizational challenges
   * My main responsibilities included support in various projects, supporting the globally steered research initiative focusing on the Future of Work
 
 * 2016 - 2018: Research Fellow at [Happern Research Group at Koc University Design Lab](https://happern.ku.edu.tr/)

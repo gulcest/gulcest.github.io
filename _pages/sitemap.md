@@ -3,6 +3,7 @@ layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
+excerpt: "A full listing of every page, post, and collection published on this site."
 ---
 
 {% include base_path %}

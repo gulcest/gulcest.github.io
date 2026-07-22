@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+excerpt: "Academic publications by Semra Gulce Turan on human-computer interaction, focus, and inclusive user experience research."
 ---
 
 {% if author.googlescholar %}

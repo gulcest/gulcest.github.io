@@ -1,10 +1,10 @@
 ---
-title: "Working with online SMBs to design more intuitive online payment mechnanisms 💳"
-excerpt: "<i>Mass Payouts, Settlement to Balance & Refund to Balance</i><br/><img src='/images/financialservices-1.png'>"
+title: "Working with online SMBs to design more intuitive online payment mechanisms 💳"
+excerpt: "<i>Mass Payouts, Settlement to Balance & Refund to Balance</i><br/><img src='/images/financialservices-1.png' alt='iyzico payment product dashboard for mass payouts and refunds'>"
 collection: portfolio
 ---
 
-💸 During my time at iyzico, I worked with developer and designer teams to experiment with different payment products for <b>small-and-medium-sized businesses</b>. The main intention behind all these products was to make it <b>easier</b> for these businesses to process online payments by having them easily integrate the features to their websites and dashboards.
+💸 During my time at iyzico, I worked with developer and designer teams to experiment with different payment products for <b>small-and-medium-sized businesses</b>. The main intention behind all these products was to make it <b>easier</b> for these businesses to process online payments by having them easily integrate the features into their websites and dashboards.
 
 <br/> 1️⃣  With the [Mass Payouts](https://dev.iyzipay.com/en/mass-payouts) product, businesses could send multiple payments at once by uploading a CSV file to the dashboard.
 

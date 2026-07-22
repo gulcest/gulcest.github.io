@@ -6,6 +6,7 @@ permalink: /talks/drlg/
 venue: "Nexus Mutual"
 date: 2025-04-01
 location: "online"
+excerpt: "Organizing the first cohort of the DeFi & Risk Learning Group, a bi-weekly online community exploring DeFi and risk management."
 ---
 
 *The first cohort of the DeFi & Risk Learning Group is live!*

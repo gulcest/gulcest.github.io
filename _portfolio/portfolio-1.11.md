@@ -1,6 +1,6 @@
 ---
 title: "Decolonize & Cooperate: Building capacity for just coordination 🌱"
-excerpt: "<i>Manifesto and collective vision for digital cooperation beyond capitalism</i><br/><img src='/images/coconut(1).png'>"
+excerpt: "<i>Manifesto and collective vision for digital cooperation beyond capitalism</i><br/><img src='/images/coconut(1).png' alt='DeCoCo collective logo and manifesto for decolonial digital cooperation'>"
 collection: portfolio
 ---
 
