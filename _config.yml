@@ -14,7 +14,7 @@ description              : &description "Ops, research, and building things, usu
 url                      : "https://www.semturan.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gulcest.github.io"
-minimal_mistakes_skin    : "contrast" # blank/default, or "contrast" (only these two are wired up in _sass/_skin-contrast.scss)
+minimal_mistakes_skin    : "sunrise" # blank/default, "contrast", or "sunrise" (only these are wired up in _sass/_skin-*.scss)
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -63,7 +63,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "profile.png" # Open Graph/Twitter default site image
+og_image                 : "profile-gg.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

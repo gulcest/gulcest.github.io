@@ -1,0 +1,10 @@
+/* ==========================================================================
+   Sunrise skin — footer override
+   loaded after _footer.scss so it wins the cascade (same selector
+   specificity as .page__footer in _footer.scss, later rule wins)
+   ========================================================================== */
+
+.page__footer {
+  background-color: #f9b248;
+  border-top-color: mix(#000, #f9b248, 20%);
+}
